@@ -2,9 +2,9 @@
 Hi, I am Mykola Lehkyi and I am Software Engineer.
 This Angular application provides visualizations for video statistics stored in Azure Blob Storage. It fetches video statistics data as JSON and renders various line charts to show trends and insights related to likes, views, comments, and favorite counts over time. This tool is designed for users who need to analyze video performance on platforms such as YouTube.
 
-Azure part: https://github.com/mykolalehkyi/SaveYouTubeVideoStatistics/
-Web Api part: https://github.com/mykolalehkyi/YT_Data_Api
-Angular client part: https://github.com/mykolalehkyi/epz-youtube-api 
+Azure part: https://github.com/mykolalehkyi/SaveYouTubeVideoStatistics/ <br/>
+Web Api part: https://github.com/mykolalehkyi/YT_Data_Api <br/>
+Angular client part: https://github.com/mykolalehkyi/epz-youtube-api <br/>
 
 ## Features
 Data Fetching: Fetch video statistics data from Azure Blob Storage using a custom service.
